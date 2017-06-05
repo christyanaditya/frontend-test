@@ -1,7 +1,7 @@
 FRONTEND TEST
 =============
 
-- Silahkan buat repository GIT (github.com / gitlab.com) untuk membuat sebuah aplikasi yang menampilkan data github.
+- Silahkan buat GIT repository (github.com / gitlab.com) untuk membuat sebuah aplikasi yang menampilkan data github.
 - Wajib menggunakan javascript framework (ex: angular, react, vue, dll).
 - Contoh tampilan aplikasi bisa dilihat pada link berikut:
 
