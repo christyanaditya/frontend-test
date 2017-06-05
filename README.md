@@ -9,7 +9,7 @@ FRONTEND TEST
 https://github.com/andhikamaheva
 ```
 
-![alt text](github.comandhikamaheva.png)
+![alt text](/github.comandhikamaheva.png)
 
 - Aplikasi yang dibuat wajib menampilkan data profile, overview, repositories, stars, followers, dan following.
 - Desain tampilan tidak harus sama dengan contoh diatas, kalau bisa lebih bagus lebih baik.
