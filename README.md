@@ -9,7 +9,7 @@ FRONTEND TEST
 https://github.com/andhikamaheva
 ```
 
-![alt text](https://s3-ap-southeast-1.amazonaws.com/pasarb2b-recruitment-test/frontend-test/github.comandhikamaheva.png)
+![alt text](github.comandhikamaheva.png)
 
 - Aplikasi yang dibuat wajib menampilkan data profile, overview, repositories, stars, followers, dan following.
 - Desain tampilan tidak harus sama dengan contoh diatas, kalau bisa lebih bagus lebih baik.
