@@ -1,4 +1,4 @@
-FRONTEND TEST
+FRONTEND TEST LABKU Indonesia
 =============
 
 - Silahkan buat GIT repository (github.com / gitlab.com) untuk membuat sebuah aplikasi yang menampilkan data github.
@@ -22,7 +22,7 @@ https://www.dropbox.com/s/2jt382fvpg8jmog/GITHUB.postman_collection.json?dl=0
 - Jika sudah selesai mengerjakan aplikasi, silahkan kirimkan link repository Anda ke email:
 
 ```
-it.pasarb2b@gmail.com
+developer@labku.id
 ```
 
 Terima kasih.
